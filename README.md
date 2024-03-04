@@ -8,4 +8,4 @@ If you have any question, encounter bugs, or need assistance using Toudai, feel 
 You are welcome to contribute to Toudai. You can contribute by forking the repository, making your changes, and submitting a pull request.
 
 ## License
-Todai is a open-source project licensed under the [GPL](LICENSE) license.
+Toudai is a open-source project licensed under the [GPL](LICENSE) license.
