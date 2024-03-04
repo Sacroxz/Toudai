@@ -1,4 +1,4 @@
-# Todai
+# Toudai
 A minimalist habit tracking Android app built with Kotlin, Jetpack Compose (Room, ViewModel) and Hilt.
 
 ## Support
